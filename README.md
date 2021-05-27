@@ -5,5 +5,4 @@
 
 </div>
   
-  
-  javadoc 보러가기
+  javadoc 보러가기(https://wns7327.github.io/mini-project/doc/index.html)
